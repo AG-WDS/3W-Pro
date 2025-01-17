@@ -20,11 +20,20 @@ Pip install the Ultralytics package including all requirements in a Python>=3.8 
     pip install mamba-ssm>=1.1.2
 
 # Usage
+I had made some change in :
+
+    ./ultralytics/nn/modules/block.py      # Efficient mamba attention's path
+    ./ultralytics/nn/tasks.py            # use the Efficient mamba attention
+    ./ultralytics/cfg/models/v10/yolov10l_seg_mamba.yaml      # model's path
+    ./ultralytics/cfg/datasets/coco_wheat.yaml      # dataset's path
+    
+    
+
 ## Train
 
 YOLO may be used directly in the Command Line Interface (CLI) with a `yolo` command:
 
-    yolo train data="./ultralytics-main/ultralytics/cfg/datasets/coco_wheat.yaml" model="/home/music/Downloads/ultralytics-main/ultralytics/cfg/models/v10/yolov10l_seg_mamba.yaml" epochs=100 imgsz=640
+    yolo train data="./ultralytics/cfg/datasets/coco_wheat.yaml" model="./ultralytics/cfg/models/v10/yolov10l_seg_mamba.yaml" epochs=100 imgsz=640
     
 ## val
 
