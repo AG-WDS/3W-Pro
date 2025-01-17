@@ -20,7 +20,7 @@ Pip install the Ultralytics package including all requirements in a Python>=3.8 
     pip install mamba-ssm>=1.1.2
 
 # Usage
-I had made some change in :
+I had made some changes in :
 
     ./ultralytics/nn/modules/block.py      # Efficient mamba attention's path
     ./ultralytics/nn/tasks.py            # use the Efficient mamba attention
