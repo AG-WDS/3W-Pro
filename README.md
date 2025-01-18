@@ -25,10 +25,10 @@ Pip install the Ultralytics package including all requirements in a Python>=3.8 
 # Usage
 I had made some changes in :
 
-    ./ultralytics/nn/modules/block.py      # Efficient mamba attention's path
-    ./ultralytics/nn/tasks.py            # use the Efficient mamba attention
+    ./ultralytics/nn/modules/block.py                         # Efficient mamba attention's path
+    ./ultralytics/nn/tasks.py                                 # use the Efficient mamba attention
     ./ultralytics/cfg/models/v10/yolov10l_seg_mamba.yaml      # model's path
-    ./ultralytics/cfg/datasets/coco_wheat.yaml      # dataset's path
+    ./ultralytics/cfg/datasets/coco_wheat.yaml                # dataset's path
     
     
 
