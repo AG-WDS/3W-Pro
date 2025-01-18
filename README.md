@@ -11,7 +11,7 @@ Put datasets into data/..., for example, 3W-Pro dataset should be put in
 The 3W-Pro dataset has **9 categories**: 
 *Calystegia hederacea*, *Capsella bursa*, *Chenopodium album*, *Cirsium arvense*, *Descurainia sophia*, 
 
-*Erysimum cheiranthoides*, *Galium aparine*, *Humulus scandens*, and winter_wheat
+*Erysimum cheiranthoides*, *Galium aparine*, *Humulus scandens*, and winter_wheat.
 # Install
 
 Pip install the Ultralytics package including all requirements in a Python>=3.8 environment with PyTorch>=1.8.
