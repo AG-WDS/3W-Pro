@@ -4,11 +4,14 @@ Dataset and Code for Winter Wheat Weed Detection and Segmentation
 
 # Dataset
 
-The 3W dataset is available at `https://drive.google.com/file/d/1-CyMzppgiKgyzh0METEdm-5A4CnP383y/view?usp=sharing`
+The 3W-Pro dataset is available at `https://drive.google.com/file/d/1-CyMzppgiKgyzh0METEdm-5A4CnP383y/view?usp=sharing`
 Put datasets into data/..., for example, 3W-Pro dataset should be put in
 
     ./data/{coco}
+The 3W-Pro dataset has **9 categories**: 
+*Calystegia hederacea*, *Capsella bursa*, *Chenopodium album*, *Cirsium arvense*, *Descurainia sophia*, 
 
+*Erysimum cheiranthoides*, *Galium aparine*, *Humulus scandens*, and winter_wheat
 # Install
 
 Pip install the Ultralytics package including all requirements in a Python>=3.8 environment with PyTorch>=1.8.
@@ -53,3 +56,14 @@ Run inference on an image opened with Python Imaging Library (PIL).
       
     # Run inference on the source  
     results  =  model(source)  # list of Results objects 
+# Citations and Acknowledgments
+    @article{zhuolin2024,
+        tilte={Winter wheat weed detection based on deep learning models},
+        author={Zhuolin Li, Dashuai Wang, Qing Yan, Minghu Zhao, Xiaohu Wu, Xiaoguang Liu},
+        journal={Computers and Electronics in Agriculture},
+        doi={https://doi.org/10.1016/j.compag.2024.109448},
+        volume={227},
+        pages={109448},
+        year={2024}
+    }  
+     
