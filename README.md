@@ -56,7 +56,7 @@ Run inference on an image opened with Python Imaging Library (PIL).
       
     # Run inference on the source  
     results  =  model(source)  # list of Results objects 
-# Citations and Acknowledgments
+# Citations
     @article{zhuolin2024,
         tilte={Winter wheat weed detection based on deep learning models},
         author={Zhuolin Li, Dashuai Wang, Qing Yan, Minghu Zhao, Xiaohu Wu, Xiaoguang Liu},
