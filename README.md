@@ -8,9 +8,16 @@ The 3W-Pro dataset is available at `https://drive.google.com/file/d/1-CyMzppgiKg
 Put datasets into data/..., for example, 3W-Pro dataset should be put in
 
     ./data/{coco}
-The 3W-Pro dataset has **9 categories**: 
-*Calystegia hederacea*, *Capsella bursa*, *Chenopodium album*, *Cirsium arvense*, *Descurainia sophia*, 
-*Erysimum cheiranthoides*, *Galium aparine*, *Humulus scandens*, and winter_wheat.
+The 3W dataset includes images taken by mobile phones (8447 images) and UAV (2865 images). 
+
+**9 categories**: 
+
+    Calystegia hederacea, Capsella bursa, Chenopodium album, Cirsium arvense, Descurainia sophia, Erysimum cheiranthoides, Galium aparine, Humulus scandens, and winter_wheat.
+
+**Different environmental conditions and flight parameters**: 
+
+    flight altitudes(1m, 2m); lighting conditions (noon, afternoon); spatial relationships between weeds and wheat (Intra row, between-rows, Weeds without wheat); Weed density (Single, Multiple, Dense)
+
 # Install
 
 Pip install the Ultralytics package including all requirements in a Python>=3.8 environment with PyTorch>=1.8.
