@@ -4,7 +4,7 @@ Dataset and Code for Winter Wheat Weed Detection and Segmentation
 
 # Dataset
 
-The 3W-Pro dataset is available at `https://drive.google.com/file/d/1-CyMzppgiKgyzh0METEdm-5A4CnP383y/view?usp=sharing`
+The 3W-Pro dataset is available at `https://drive.google.com/file/d/1AKjaQVMObbs92Te_5Std_xjCfENraQZA/view?usp=sharing`
 Put datasets into data/..., for example, 3W-Pro dataset should be put in
 
     ./data/{coco}
