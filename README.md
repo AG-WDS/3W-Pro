@@ -3,18 +3,30 @@
 Dataset and Code for Winter Wheat Weed Detection and Segmentation
 
 # Dataset
+**3W-Pro**: 
 
 The 3W-Pro dataset is available at `https://drive.google.com/file/d/1AKjaQVMObbs92Te_5Std_xjCfENraQZA/view?usp=sharing`
 
-The 3W dataset includes images taken by mobile phones (8447 images) and UAV (2865 images). 
+The 3W-Pro dataset includes images taken by mobile phones (8447 images) and UAV (2865 images). 
 
-**9 categories**: 
+***9 categories***: 
 
     Calystegia hederacea, Capsella bursa, Chenopodium album, Cirsium arvense, Descurainia sophia, Erysimum cheiranthoides, Galium aparine, Humulus scandens, and winter_wheat.
 
-**Different environmental conditions and flight parameters**: 
+***Different environmental conditions and flight parameters***: 
 
     flight altitudes(1m, 2m); lighting conditions (noon, afternoon); spatial relationships between weeds and wheat (Intra row, between-rows, Weeds without wheat); Weed density (Single, Multiple, Dense)
+
+**3W**: 
+
+The 3W dataset is available at `https://drive.google.com/file/d/1AKjaQVMObbs92Te_5Std_xjCfENraQZA/view?usp=sharing`
+
+The 3W dataset includes images taken by mobile phones (7523 images). 
+
+***8 categories***: 
+
+    Calystegia hederacea, Capsella bursa, Chenopodium album, Cirsium arvense, Descurainia sophia, Erysimum cheiranthoides, Galium aparine, Humulus scandens.
+
 
 # Install
 
