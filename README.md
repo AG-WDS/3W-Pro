@@ -19,7 +19,7 @@ The 3W-Pro dataset includes images taken by mobile phones (8447 images) and UAV 
 
 **3W**: 
 
-The 3W dataset is available at `https://drive.google.com/file/d/1AKjaQVMObbs92Te_5Std_xjCfENraQZA/view?usp=sharing`
+The 3W dataset is available at `https://drive.google.com/file/d/1JvKKoGvUbehSztb5eDx5Z8Cy9_CoMfod/view?usp=sharing`
 
 The 3W dataset includes images taken by mobile phones (7523 images). 
 
