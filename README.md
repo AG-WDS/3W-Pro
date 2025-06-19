@@ -5,9 +5,7 @@ Dataset and Code for Winter Wheat Weed Detection and Segmentation
 # Dataset
 
 The 3W-Pro dataset is available at `https://drive.google.com/file/d/1AKjaQVMObbs92Te_5Std_xjCfENraQZA/view?usp=sharing`
-Put datasets into data/..., for example, 3W-Pro dataset should be put in
 
-    ./data/{coco}
 The 3W dataset includes images taken by mobile phones (8447 images) and UAV (2865 images). 
 
 **9 categories**: 
