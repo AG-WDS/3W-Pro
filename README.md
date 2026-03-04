@@ -1,4 +1,4 @@
-YOLO-EMA: Efficient Mamba Attention Enhanced YOLOv10 for Real-time Detection and Segmentation of Winter Wheat Weeds on Edge AI Platforms
+# YOLO-EMA: Efficient Mamba Attention Enhanced YOLOv10 for Real-time Detection and Segmentation of Winter Wheat Weeds on Edge AI Platforms
 
 # 3W-pro
 
