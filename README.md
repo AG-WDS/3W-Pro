@@ -1,3 +1,5 @@
+YOLO-EMA: Efficient Mamba Attention Enhanced YOLOv10 for Real-time Detection and Segmentation of Winter Wheat Weeds on Edge AI Platforms
+
 # 3W-pro
 
 Dataset and Code for Winter Wheat Weed Detection and Segmentation
@@ -73,9 +75,19 @@ Run inference on an image opened with Python Imaging Library (PIL).
     # Run inference on the source  
     results  =  model(source)  # list of Results objects 
 # Citations
-    @article{zhuolin2024,
-        tilte={Winter wheat weed detection based on deep learning models},
-        author={Zhuolin Li, Dashuai Wang, Qing Yan, Minghu Zhao, Xiaohu Wu, Xiaoguang Liu},
+    @article
+    {Dashuai Wang, 2026,
+        tilte={YOLO-EMA: Efficient Mamba Attention Enhanced YOLOv10 for Real-time Detection and Segmentation of Winter Wheat Weeds on Edge AI Platforms},
+        author={Dashuai Wang, Minghu Zhao, Zhuolin Li, Qing Yan, Qiang Cao*, Xiaoguang Liu*},
+        journal={Smart Agricultural Technology},
+        doi={https://doi.org/10.1016/j.atech.2026.101924},
+        volume={13},
+        pages={101924},
+        year={2026}
+    }  
+    {Zhuolin Li, 2024,
+        tilte={Winter Wheat Weed Detection Based on Deep Learning Models},
+        author={Zhuolin Li, Dashuai Wang*, Qing Yan, Minghu Zhao, Xiaohu Wu, Xiaoguang Liu},
         journal={Computers and Electronics in Agriculture},
         doi={https://doi.org/10.1016/j.compag.2024.109448},
         volume={227},
