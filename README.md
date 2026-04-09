@@ -4,6 +4,8 @@
 
 Dataset and Code for Winter Wheat Weed Detection and Segmentation
 
+Note: The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions.
+
 # Dataset
 **3W-Pro**: 
 
