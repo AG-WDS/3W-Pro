@@ -1,10 +1,9 @@
 # YOLO-EMA: Efficient Mamba Attention Enhanced YOLOv10 for Real-time Detection and Segmentation of Winter Wheat Weeds on Edge AI Platforms
+Dataset and Code for Deep Learning based Winter Wheat Weed (3W) Detection and Segmentation
 
-# 3W-pro
-
-Dataset and Code for Winter Wheat Weed Detection and Segmentation
-
-Note: The dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions.
+# DATA and CODE Usage
+> [!IMPORTANT]
+> **Restrictions:** The shared dataset and code are restricted to validation and comparative analysis. Any use of this data for independent publications is prohibited in the absence of additional licensing or permissions.
 
 # Dataset
 **3W-Pro**: 
