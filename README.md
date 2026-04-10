@@ -84,7 +84,7 @@ Run inference on an image opened with Python Imaging Library (PIL).
         journal={Smart Agricultural Technology},
         doi={https://doi.org/10.1016/j.atech.2026.101924},
         volume={13},
-        pages={101924},
+        article number={101924},
         year={2026}
     }  
     {Zhuolin Li, 2024,
@@ -93,7 +93,7 @@ Run inference on an image opened with Python Imaging Library (PIL).
         journal={Computers and Electronics in Agriculture},
         doi={https://doi.org/10.1016/j.compag.2024.109448},
         volume={227},
-        pages={109448},
+        article number={109448},
         year={2024}
     }  
      
